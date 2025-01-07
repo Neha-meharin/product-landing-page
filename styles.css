@@ -1,0 +1,141 @@
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .dress{
+ padding-top:10px;
+
+  }
+
+
+  body {
+    font-family: 'Roboto', sans-serif; /* Applying Roboto font */
+    background-color: #f8f8f8;
+    color: #333;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  header .logo h1 {
+    font-size: 24px; /* 24px for logo text */
+    color: #f9faf8; /* Logo color */
+  }
+  
+  header nav ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  header nav ul li {
+    margin-left: 20px;
+  }
+  
+  header nav ul li a {
+    color: white;
+    font-size: 1em;
+    padding: 10px 15px;
+  }
+  
+  header nav ul li a:hover {
+    background-color: #555;
+    border-radius: 5px;
+  }
+  
+  /* Intro Section */
+  .intro {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #1f2937; /* Dark background */
+    height:600px;
+  }
+  
+  .headline {
+    font-size: 48px; /* Large size for punchline */
+    color: #f9faf8; /* Light color for punchline */
+    font-weight: 900; /* Bold text */
+    margin-bottom: 20px;
+  }
+  
+  .description {
+    font-size: 18px; /* Smaller size for description */
+    color: #e5e7eb; /* Lighter color for description */
+  }
+  h2{
+    text-align: center;
+    padding-top:10px;
+  }
+  /* Product Section */
+  .products {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 10px 20px;
+    background-color: #fff;
+  }
+  
+  .product-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    width: 250px;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .product-card h3 {
+    font-size: 1.5em;
+    margin: 15px 0;
+  }
+  
+  .product-card .price {
+    font-size: 1.2em;
+    color: #333;
+  }
+  
+  .product-card button {
+    background-color:green;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .product-card button:hover {
+    background-color: #555;
+  }
+  
+  /* Footer Styles */
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #1f2937;
+    color: white;
+  }
+  

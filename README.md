@@ -17,8 +17,8 @@ A visually appealing and **fully responsive** restaurant landing page designed t
 ✅ **Custom Google Fonts & Icons** – Ensures a stylish and professional look.  
 
 ## 🖼 Preview  
-![Landing Page Screenshot](link-to-screensho![Screenshot 2025-02-12 234505](https://github.com/user-attachments/assets/984332fa-8c2d-42a7-9eb7-d7910d9b1c0a)
-t)  ![Screenshot 2025-02-12 234618](https://github.com/user-attachments/assets/207469c8-9f2d-4ad4-96f5-7e47960a6f31)
+![Screenshot 2025-02-12 234505](https://github.com/user-attachments/assets/984332fa-8c2d-42a7-9eb7-d7910d9b1c0a)
+  ![Screenshot 2025-02-12 234618](https://github.com/user-attachments/assets/207469c8-9f2d-4ad4-96f5-7e47960a6f31)
 ![Screenshot 2025-02-12 234635](https://github.com/user-attachments/assets/1694647a-774a-44c7-ab55-d189d81c79d5)
 
 
